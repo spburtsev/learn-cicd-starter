@@ -1,4 +1,5 @@
-![github actions status](https://github.com/spburtsev/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![ci status](https://github.com/spburtsev/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![cd status](https://github.com/spburtsev/learn-cicd-starter/actions/workflows/cd.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
